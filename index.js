@@ -16,3 +16,4 @@ console.log("this code is running.");
 
 // run with `node server.mjs`
 console.log('Server module loaded.');
+console.log('This will execute when the module is imported or run directly.');
