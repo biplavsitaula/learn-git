@@ -14,10 +14,12 @@ server.listen(3000, '127.0.0.1', () => {
 console.log("this code is running.");
 
 
+console.log("this code is running.");
+
+
 // run with `node server.mjs`
 console.log('Server module loaded.');
 
-console.log('This will execute when the module is imported or run abc.');
-console.log('TESTING GIT PUSH');
-console.log('SECOND TESTING GIT PUSH');
-console.log('THIRD TESTING GIT PUSH');
+console.log('This will execute when the module is tesgh imported oa7iuer run abc.');
+console.log('TESTING GIT PUSH to main branch');
+console.log('TESTING GIT PUSH to second branch');
